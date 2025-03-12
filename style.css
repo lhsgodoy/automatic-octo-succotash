@@ -1,0 +1,58 @@
+    .alice-regular {
+        font-family: "Alice", serif;
+        font-weight: 400;
+        font-style: normal;
+      
+    }
+
+body {
+    background:
+    linear-gradient(rgba(177, 143, 143, 0.6), rgba(103, 66, 66, 0.5)),
+    url(assets/bg-image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1280px;
+    height: 1588px;   
+    font-family: "Alice", serif;
+    
+    
+}
+
+main {
+    height: 1300px;
+    width: 800px;
+    background-color: #f0e8c2;
+    border-radius: 24px;
+    padding:30px 40px;
+    margin: 40px 290px;
+    color: #573A37;
+    
+    }
+
+    div img{
+      width:800px ;
+    }
+
+    h1 {
+        font-size: 40px ;
+        line-height: 140%;
+        color: #291B1A;
+       
+    }
+
+    h2 {
+        font-size: 24px;
+        line-height: 150%;
+        color: #291B1A;
+
+    }
+
+    footer {
+        text-align: center;
+        padding-left: 90px;
+        color: #f0e8c2;
+    }
+
+
+    
+    
